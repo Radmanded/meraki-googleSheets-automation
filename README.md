@@ -1,33 +1,19 @@
-# meraki-googleSheets-automation
-Integrating Cisco Meraki Dashboard API with Google Sheet
+# Meraki Google Sheets Automation
+Easily import Meraki Network data into Google Sheets using the Meraki Dashboard API.
 
 [This is a comment that will be hidden. Place a space before and after.]: # 
-# markdown-template-meraki
 
-The steps below help you integrate Cisco Meraki Dashboard API with Google Sheet automating documentation, configuration, and maintenance through spreadsheets.
-
-## Show the final product
-
-# Logo Product line
-
-###### - ![meraki-logo]()
->Note: Need to fix this
+![CleanShot 2022-06-03 at 10 25 05](https://user-images.githubusercontent.com/9085386/171888059-281ebadc-e65d-40d9-9b35-b00e1a679d92.png)
 
 ### Pre-Reqs
-Google Account
-<details>
-<summary>Linux</summary>
-Redirect to that repository
-</details>
-
-<details>
-<summary>macOS</summary>
-</details>
+* Google Account
+* Meraki API Key for personal use
+>Note: Meraki Sandbox API Key and IDs are present for ease of use.
 
 ### Installation
-Simply run this demo by opening the following Google Sheet.
+Open the following [Google Sheet](https://docs.google.com/spreadsheets/d/1LLs9g5wZEN2rPOrM1iT8y9kM_tWLokzKs_hNy3WDW-k/edit?usp=sharing)
 
-https://docs.google.com/spreadsheets/d/1LLs9g5wZEN2rPOrM1iT8y9kM_tWLokzKs_hNy3WDW-k/edit?usp=sharing
+
 
 Then MAKE A COPY of the file to your own account by selecting File -> Make a copy. This will allow the script to run and ensure your credentials are kept within your account. 
 Update the settings sheet with API key to start.
